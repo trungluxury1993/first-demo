@@ -9,3 +9,15 @@ E:\DemoCode\AdminApp\AdminApp\obj\Debug\AdminApp.csproj.GenerateResource.cache
 E:\DemoCode\AdminApp\AdminApp\obj\Debug\AdminApp.csproj.CoreCompileInputs.cache
 E:\DemoCode\AdminApp\AdminApp\obj\Debug\AdminApp.exe
 E:\DemoCode\AdminApp\AdminApp\obj\Debug\AdminApp.pdb
+C:\Users\PA\Downloads\GitHubPVH\first-demo\DemoCode\AdminApp\AdminApp\bin\Debug\AdminApp.exe.config
+C:\Users\PA\Downloads\GitHubPVH\first-demo\DemoCode\AdminApp\AdminApp\bin\Debug\AdminApp.exe
+C:\Users\PA\Downloads\GitHubPVH\first-demo\DemoCode\AdminApp\AdminApp\bin\Debug\AdminApp.pdb
+C:\Users\PA\Downloads\GitHubPVH\first-demo\DemoCode\AdminApp\AdminApp\obj\Debug\AdminApp.csprojAssemblyReference.cache
+C:\Users\PA\Downloads\GitHubPVH\first-demo\DemoCode\AdminApp\AdminApp\obj\Debug\AdminApp.Form1.resources
+C:\Users\PA\Downloads\GitHubPVH\first-demo\DemoCode\AdminApp\AdminApp\obj\Debug\AdminApp.Form2.resources
+C:\Users\PA\Downloads\GitHubPVH\first-demo\DemoCode\AdminApp\AdminApp\obj\Debug\AdminApp.LoginForm.resources
+C:\Users\PA\Downloads\GitHubPVH\first-demo\DemoCode\AdminApp\AdminApp\obj\Debug\AdminApp.Properties.Resources.resources
+C:\Users\PA\Downloads\GitHubPVH\first-demo\DemoCode\AdminApp\AdminApp\obj\Debug\AdminApp.csproj.GenerateResource.cache
+C:\Users\PA\Downloads\GitHubPVH\first-demo\DemoCode\AdminApp\AdminApp\obj\Debug\AdminApp.csproj.CoreCompileInputs.cache
+C:\Users\PA\Downloads\GitHubPVH\first-demo\DemoCode\AdminApp\AdminApp\obj\Debug\AdminApp.exe
+C:\Users\PA\Downloads\GitHubPVH\first-demo\DemoCode\AdminApp\AdminApp\obj\Debug\AdminApp.pdb
