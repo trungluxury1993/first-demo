@@ -1,0 +1,11 @@
+E:\DemoCode\AdminApp\AdminApp\bin\Debug\AdminApp.exe.config
+E:\DemoCode\AdminApp\AdminApp\bin\Debug\AdminApp.exe
+E:\DemoCode\AdminApp\AdminApp\bin\Debug\AdminApp.pdb
+E:\DemoCode\AdminApp\AdminApp\obj\Debug\AdminApp.csprojResolveAssemblyReference.cache
+E:\DemoCode\AdminApp\AdminApp\obj\Debug\AdminApp.Form1.resources
+E:\DemoCode\AdminApp\AdminApp\obj\Debug\AdminApp.LoginForm.resources
+E:\DemoCode\AdminApp\AdminApp\obj\Debug\AdminApp.Properties.Resources.resources
+E:\DemoCode\AdminApp\AdminApp\obj\Debug\AdminApp.csproj.GenerateResource.cache
+E:\DemoCode\AdminApp\AdminApp\obj\Debug\AdminApp.csproj.CoreCompileInputs.cache
+E:\DemoCode\AdminApp\AdminApp\obj\Debug\AdminApp.exe
+E:\DemoCode\AdminApp\AdminApp\obj\Debug\AdminApp.pdb
